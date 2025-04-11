@@ -1,0 +1,25 @@
+{
+  "name": "tp4",
+  "version": "1.0.0",
+  "description": "modularicazion",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KanterAlon/TP4-M-dulos-con-Node-KANTER.git"
+  },
+  "author": "de marco otero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KanterAlon/TP4-M-dulos-con-Node-KANTER/issues"
+  },
+  "homepage": "https://github.com/KanterAlon/TP4-M-dulos-con-Node-KANTER#readme",
+  "dependencies": {
+    "country-to-currency": "^2.0.2",
+    "node-modules": "^1.0.1",
+    "tp4": "file:"
+  }
+}
